@@ -4,6 +4,6 @@
     "license": "MIT",
     "description": "A PHP package to easily integrate Blackfire into a Symfony application",
     "require": {
-        "blackfire/php-sdk": "^1.26"
+        "blackfire/php-sdk": "^2.3"
     }
 }
